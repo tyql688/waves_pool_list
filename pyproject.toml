@@ -1,0 +1,15 @@
+[project]
+name = "waves-pool-list"
+version = "0.1.0"
+description = "鸣潮卡池列表"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.32.3",
+    "pydantic>=2.10.5",
+]
+
+[dependency-groups]
+dev = [
+    "pip-tools>=7.4.1",
+]
