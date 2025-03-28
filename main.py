@@ -304,12 +304,40 @@ def get_pool_list(
 character_pool_list = get_pool_list("角色活动唤取")
 weapon_pool_list = get_pool_list("武器活动唤取")
 
-pool_list = character_pool_list + weapon_pool_list
 
+fixed = [
+    {
+        "bbs": "",
+        "name": "忌炎",
+        "title": "夜将寒色去",
+        "pic": "",
+        "five_star_ids": ["1404"],
+        "five_star_names": ["忌炎"],
+        "four_star_ids": ["1602", "1202", "1204"],
+        "four_star_names": ["丹瑾", "炽霞", "莫特斐"],
+        "pool_type": "角色活动唤取",
+        "start_time": "2024-05-23 10:00:00",
+        "end_time": "2024-06-13 09:59:59",
+    },
+    {
+        "bbs": "",
+        "name": "苍鳞千嶂",
+        "title": "浮声沉兵",
+        "pic": "",
+        "five_star_ids": ["21010016"],
+        "five_star_names": ["苍鳞千嶂"],
+        "four_star_ids": ["21010044", "21050024", "21040064"],
+        "four_star_names": ["永夜长明", "奇幻变奏", "骇行"],
+        "pool_type": "武器活动唤取",
+        "start_time": "2024-05-23 10:00:00",
+        "end_time": "2024-06-13 09:59:59",
+    },
+]
+
+pool_list = character_pool_list + weapon_pool_list + fixed
 pool_list = sorted(
     pool_list,
     key=lambda x: datetime.strptime(x["end_time"], "%Y-%m-%d %H:%M:%S"),
-    reverse=True,
 )
 
 with open(POOL_LIST_PATH, "w") as f:
