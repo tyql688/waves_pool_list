@@ -135,7 +135,7 @@ headers = {
 
 def get_post_detail(post_id: str):
     _headers = copy.deepcopy(headers)
-    _headers.update({"devcode": "", "token": ""})
+    _headers.update({"devcode": "", "token": "", "version": ""})
     data = {
         "isOnlyPublisher": 1,
         "postId": post_id,

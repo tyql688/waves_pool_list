@@ -998,5 +998,55 @@
         "pool_type": "武器活动唤取",
         "start_time": "版本更新时间",
         "end_time": "2025-04-17 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1361410178384150528",
+        "name": "守岸人",
+        "title": "直至海水褪色",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/9b530251149a4460808f3372c1720f4720250414.jpeg",
+        "five_star_ids": [
+            "1505"
+        ],
+        "five_star_names": [
+            "守岸人"
+        ],
+        "four_star_ids": [
+            "1103",
+            "1102",
+            "1403"
+        ],
+        "four_star_names": [
+            "白芷",
+            "散华",
+            "秋水"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2025-04-17 10:00:00",
+        "end_time": "2025-04-28 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1361412137553039360",
+        "name": "星序协响",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/bc2ba65e421146758f43dd6c676bd31f20250414.jpeg",
+        "five_star_ids": [
+            "21050036"
+        ],
+        "five_star_names": [
+            "星序协响"
+        ],
+        "four_star_ids": [
+            "21050064",
+            "21020084",
+            "21030044"
+        ],
+        "four_star_names": [
+            "异度",
+            "永续坍缩",
+            "无眠烈火"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2025-04-17 10:00:00",
+        "end_time": "2025-04-28 11:59:59"
     }
 ]
