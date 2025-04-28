@@ -176,7 +176,7 @@ def search_pool_list(
 
 def get_pool_list(
     keyword: Literal["角色活动唤取", "武器活动唤取"],
-    end_page: int = 5,
+    end_page: int = 3,
 ):
     pool_list = []
     for page in range(1, end_page + 1):
@@ -191,6 +191,8 @@ def get_pool_list(
                 continue
 
             if keyword not in post_title:
+                continue
+            if "周年" in post_title:
                 continue
             if not post["imgContent"]:
                 print(f"没有图片: {post_id} {post_title}")
@@ -332,13 +334,148 @@ fixed = [
         "start_time": "2024-05-23 10:00:00",
         "end_time": "2024-06-13 09:59:59",
     },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1366076768541614080",
+        "name": "忌炎",
+        "title": "夜将寒色去",
+        "pic": "",
+        "five_star_ids": ["1404"],
+        "five_star_names": ["忌炎"],
+        "four_star_ids": ["1504", "1601", "1303"],
+        "four_star_names": ["灯灯", "桃祈", "渊武"],
+        "pool_type": "角色活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-05-22 09:59:59",
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1366076768541614080",
+        "name": "苍鳞千嶂",
+        "title": "浮声沉兵",
+        "pic": "",
+        "five_star_ids": ["21010016"],
+        "five_star_names": ["苍鳞千嶂"],
+        "four_star_ids": ["21010044", "21020024", "21040064"],
+        "four_star_names": ["永夜长明", "行进序曲", "骇行"],
+        "pool_type": "武器活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-05-22 09:59:59",
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1366076768541614080",
+        "name": "吟霖",
+        "title": "惊霆雨时节",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/a8332d4349a94bb6a908b972fb7561ff20240605.jpg",
+        "five_star_ids": ["1302"],
+        "five_star_names": ["吟霖"],
+        "four_star_ids": ["1504", "1601", "1303"],
+        "four_star_names": ["灯灯", "桃祈", "渊武"],
+        "pool_type": "角色活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-05-22 09:59:59",
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1366076768541614080",
+        "name": "掣傀之手",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/45eb3783e4db4a02960287f71052f84a20240605.jpg",
+        "five_star_ids": ["21050016"],
+        "five_star_names": ["掣傀之手"],
+        "four_star_ids": ["21010044", "21020024", "21040064"],
+        "four_star_names": ["永夜长明", "行进序曲", "骇行"],
+        "pool_type": "武器活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-05-22 09:59:59",
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1366076768541614080",
+        "name": "折枝",
+        "title": "赋彩作长吟",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/e99d94b4cae44f96bb9bb5fc07ca614420240814.jpg",
+        "five_star_ids": ["1105"],
+        "five_star_names": ["折枝"],
+        "four_star_ids": ["1504", "1601", "1303"],
+        "four_star_names": ["灯灯", "桃祈", "渊武"],
+        "pool_type": "角色活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-05-22 09:59:59",
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1366076768541614080",
+        "name": "琼枝冰绡",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/b5db920911c64bbd854da0e7eeb0971820240814.jpg",
+        "five_star_ids": ["21050026"],
+        "five_star_names": ["琼枝冰绡"],
+        "four_star_ids": ["21010044", "21020024", "21040064"],
+        "four_star_names": ["永夜长明", "行进序曲", "骇行"],
+        "pool_type": "武器活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-05-22 09:59:59",
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1366076768541614080",
+        "name": "相里要",
+        "title": "千机逐星野",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/2db86470f9314a569650e9fff0433e1f20240905.jpg",
+        "five_star_ids": ["1305"],
+        "five_star_names": ["相里要"],
+        "four_star_ids": ["1504", "1601", "1303"],
+        "four_star_names": ["灯灯", "桃祈", "渊武"],
+        "pool_type": "角色活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-05-22 09:59:59",
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1366076768541614080",
+        "name": "诸方玄枢",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/ec625fec55314e52a5948e9f6641f76220240905.jpg",
+        "five_star_ids": ["21040016"],
+        "five_star_names": ["诸方玄枢"],
+        "four_star_ids": ["21010044", "21020024", "21040064"],
+        "four_star_names": ["永夜长明", "行进序曲", "骇行"],
+        "pool_type": "武器活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-05-22 09:59:59",
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1366076768541614080",
+        "name": "菲比",
+        "title": "于静谧呢喃",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/fa562ac0802746dd8028a0959762740b20250211.jpg",
+        "five_star_ids": ["1506"],
+        "five_star_names": ["菲比"],
+        "four_star_ids": ["1504", "1601", "1303"],
+        "four_star_names": ["灯灯", "桃祈", "渊武"],
+        "pool_type": "角色活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-05-22 09:59:59",
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1366076768541614080",
+        "name": "和光回唱",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/c41e43ff812340ca9a8134528c00d3c820250211.jpg",
+        "five_star_ids": ["21050046"],
+        "five_star_names": ["和光回唱"],
+        "four_star_ids": ["21010044", "21020024", "21040064"],
+        "four_star_names": ["永夜长明", "行进序曲", "骇行"],
+        "pool_type": "武器活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-05-22 09:59:59",
+    },
 ]
 
-pool_list = character_pool_list + weapon_pool_list + fixed
-pool_list = sorted(
-    pool_list,
-    key=lambda x: datetime.strptime(x["end_time"], "%Y-%m-%d %H:%M:%S"),
-)
+pool_list = fixed + character_pool_list + weapon_pool_list
+try:
+    pool_list = sorted(
+        pool_list,
+        key=lambda x: datetime.strptime(x["end_time"], "%Y-%m-%d %H:%M:%S"),
+    )
+except Exception as e:
+    print(e)
+    print(pool_list)
+
 
 with open(POOL_LIST_PATH, "w") as f:
     json.dump(pool_list, f, indent=4, ensure_ascii=False)
