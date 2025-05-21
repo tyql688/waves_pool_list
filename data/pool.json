@@ -1348,5 +1348,304 @@
         "pool_type": "武器活动唤取",
         "start_time": "版本更新时间",
         "end_time": "2025-05-22 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1374001519726297088",
+        "title": "寒尽觉春生",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/02bca2fb7f5640ac96eb9490ab71683020240626.jpg",
+        "five_star_ids": [
+            "1304"
+        ],
+        "five_star_names": [
+            "今汐"
+        ],
+        "four_star_ids": [
+            "1602",
+            "1402",
+            "1204"
+        ],
+        "four_star_names": [
+            "丹瑾",
+            "秧秧",
+            "莫特斐"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2025-05-22 10:00:00",
+        "end_time": "2025-06-11 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1374001519726297088",
+        "name": "时和岁稔",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/fb2df4dc9f234cf0a9a1bc867d218b4920240626.jpg",
+        "five_star_ids": [
+            "21010026"
+        ],
+        "five_star_names": [
+            "时和岁稔"
+        ],
+        "four_star_ids": [
+            "21030044",
+            "21050024",
+            "21030084"
+        ],
+        "four_star_names": [
+            "无眠烈火",
+            "奇幻变奏",
+            "悖论喷流"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2025-05-22 10:00:00",
+        "end_time": "2025-06-11 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1374001519726297088",
+        "name": "长离",
+        "title": "炽羽策阵星",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/c4bd99020c3a4c52982ad301e514690220240719.jpg",
+        "five_star_ids": [
+            "1205"
+        ],
+        "five_star_names": [
+            "长离"
+        ],
+        "four_star_ids": [
+            "1602",
+            "1402",
+            "1204"
+        ],
+        "four_star_names": [
+            "丹瑾",
+            "秧秧",
+            "莫特斐"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2025-05-22 10:00:00",
+        "end_time": "2025-06-11 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1374001519726297088",
+        "name": "赫奕流明",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/a082d6c12f8543219c6b85a69366ce5320240719.jpg",
+        "five_star_ids": [
+            "21020016"
+        ],
+        "five_star_names": [
+            "赫奕流明"
+        ],
+        "four_star_ids": [
+            "21030044",
+            "21050024",
+            "21030084"
+        ],
+        "four_star_names": [
+            "无眠烈火",
+            "奇幻变奏",
+            "悖论喷流"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2025-05-22 10:00:00",
+        "end_time": "2025-06-11 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1374001519726297088",
+        "name": "珂莱塔",
+        "title": "另一种喧嚣",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/69f3c4ea4fbd4c939524a25a13e0975f20241231.jpg",
+        "five_star_ids": [
+            "1107"
+        ],
+        "five_star_names": [
+            "珂莱塔"
+        ],
+        "four_star_ids": [
+            "1602",
+            "1402",
+            "1204"
+        ],
+        "four_star_names": [
+            "丹瑾",
+            "秧秧",
+            "莫特斐"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2025-05-22 10:00:00",
+        "end_time": "2025-06-11 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1374001519726297088",
+        "name": "死与舞",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/8ec64b37bbb74da38d21054de2ae30b420241231.jpg",
+        "five_star_ids": [
+            "21030016"
+        ],
+        "five_star_names": [
+            "死与舞"
+        ],
+        "four_star_ids": [
+            "21030044",
+            "21050024",
+            "21030084"
+        ],
+        "four_star_names": [
+            "无眠烈火",
+            "奇幻变奏",
+            "悖论喷流"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2025-05-22 10:00:00",
+        "end_time": "2025-06-11 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1374001519726297088",
+        "name": "洛可可",
+        "title": "箱中舞台",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/0dc5a2a1b5d748a7800ce306164f98ee20250121.jpg",
+        "five_star_ids": [
+            "1606"
+        ],
+        "five_star_names": [
+            "洛可可"
+        ],
+        "four_star_ids": [
+            "1602",
+            "1402",
+            "1204"
+        ],
+        "four_star_names": [
+            "丹瑾",
+            "秧秧",
+            "莫特斐"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2025-05-22 10:00:00",
+        "end_time": "2025-06-11 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1374001519726297088",
+        "name": "悲喜剧",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/2ebb015eace4456c814248fc0093d88720250121.jpg",
+        "five_star_ids": [
+            "21040026"
+        ],
+        "five_star_names": [
+            "悲喜剧"
+        ],
+        "four_star_ids": [
+            "21030044",
+            "21050024",
+            "21030084"
+        ],
+        "four_star_names": [
+            "无眠烈火",
+            "奇幻变奏",
+            "悖论喷流"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2025-05-22 10:00:00",
+        "end_time": "2025-06-11 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1374001519726297088",
+        "name": "布兰特",
+        "title": "燃焰于海",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/726fc80c40194adca0d314a27b4620ed20250304.jpeg",
+        "five_star_ids": [
+            "1206"
+        ],
+        "five_star_names": [
+            "布兰特"
+        ],
+        "four_star_ids": [
+            "1602",
+            "1402",
+            "1204"
+        ],
+        "four_star_names": [
+            "丹瑾",
+            "秧秧",
+            "莫特斐"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2025-05-22 10:00:00",
+        "end_time": "2025-06-11 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1374001519726297088",
+        "name": "不灭航路",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/6d868f660f224f168d5c020c77d5a11020250304.jpeg",
+        "five_star_ids": [
+            "21020036"
+        ],
+        "five_star_names": [
+            "不灭航路"
+        ],
+        "four_star_ids": [
+            "21030044",
+            "21050024",
+            "21030084"
+        ],
+        "four_star_names": [
+            "无眠烈火",
+            "奇幻变奏",
+            "悖论喷流"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2025-05-22 10:00:00",
+        "end_time": "2025-06-11 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1374495745673134080",
+        "name": "夏空",
+        "title": "诗与乐的交响",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/1fc2d902bb194387ab88f345c9804e5120250520.jpeg",
+        "five_star_ids": [
+            "1407"
+        ],
+        "five_star_names": [
+            "夏空"
+        ],
+        "four_star_ids": [
+            "1602",
+            "1402",
+            "1204"
+        ],
+        "four_star_names": [
+            "丹瑾",
+            "秧秧",
+            "莫特斐"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2025-05-22 10:00:00",
+        "end_time": "2025-06-11 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1374496499191808000",
+        "name": "林间的咏叹调",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/7d8e6652f20a4ba78054d264b0932a6920250520.jpeg",
+        "five_star_ids": [
+            "21030026"
+        ],
+        "five_star_names": [
+            "林间的咏叹调"
+        ],
+        "four_star_ids": [
+            "21030044",
+            "21050024",
+            "21030084"
+        ],
+        "four_star_names": [
+            "无眠烈火",
+            "奇幻变奏",
+            "悖论喷流"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2025-05-22 10:00:00",
+        "end_time": "2025-06-11 11:59:59"
     }
 ]
