@@ -1647,5 +1647,55 @@
         "pool_type": "武器活动唤取",
         "start_time": "2025-05-22 10:00:00",
         "end_time": "2025-06-11 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1382015825664344064",
+        "name": "卡提希娅",
+        "title": "却也在风潮后轻舞",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/027f382890da430c82f9fa9665f9ef2e20250610.jpeg",
+        "five_star_ids": [
+            "1409"
+        ],
+        "five_star_names": [
+            "卡提希娅"
+        ],
+        "four_star_ids": [
+            "1403",
+            "1103",
+            "1106"
+        ],
+        "four_star_names": [
+            "秋水",
+            "白芷",
+            "釉瑚"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-07-03 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1382016699283341312",
+        "name": "不屈命定之冠",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/5e331f21a5884934b3b1b9807ffe2f1520250610.jpeg",
+        "five_star_ids": [
+            "21020056"
+        ],
+        "five_star_names": [
+            "不屈命定之冠"
+        ],
+        "four_star_ids": [
+            "21020084",
+            "21040024",
+            "21040044"
+        ],
+        "four_star_names": [
+            "永续坍缩",
+            "呼啸重音",
+            "袍泽之固"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-07-03 09:59:59"
     }
 ]
