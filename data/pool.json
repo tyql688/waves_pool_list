@@ -1697,5 +1697,55 @@
         "pool_type": "武器活动唤取",
         "start_time": "版本更新时间",
         "end_time": "2025-07-03 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1389263635369472000",
+        "name": "露帕",
+        "title": "胜利为我喝彩",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/bf5195718ff34557be2292351e3cc25c20250630.jpeg",
+        "five_star_ids": [
+            "1207"
+        ],
+        "five_star_names": [
+            "露帕"
+        ],
+        "four_star_ids": [
+            "1102",
+            "1601",
+            "1202"
+        ],
+        "four_star_names": [
+            "散华",
+            "桃祈",
+            "炽霞"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2025-07-03 10:00:00",
+        "end_time": "2025-07-23 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1389264880516296704",
+        "name": "焰痕",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/7fc5b3d75a09431698fb42763121c50020250630.jpeg",
+        "five_star_ids": [
+            "21010036"
+        ],
+        "five_star_names": [
+            "焰痕"
+        ],
+        "four_star_ids": [
+            "21010064",
+            "21020044",
+            "21050044"
+        ],
+        "four_star_names": [
+            "东落",
+            "不归孤军",
+            "今州守望"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2025-07-03 10:00:00",
+        "end_time": "2025-07-23 11:59:59"
     }
 ]
