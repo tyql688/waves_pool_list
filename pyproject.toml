@@ -13,3 +13,6 @@ dependencies = [
 dev = [
     "pip-tools>=7.4.1",
 ]
+
+[[tool.uv.index]]
+url = "https://mirrors.volces.com/pypi/simple/"

@@ -250,31 +250,6 @@
         "end_time": "2024-09-07 09:59:59"
     },
     {
-        "bbs": "https://www.kurobbs.com/mc/post/1281203949955477504",
-        "name": "相里要",
-        "title": "千机逐星野",
-        "pic": "https://prod-alicdn-community.kurobbs.com/forum/2db86470f9314a569650e9fff0433e1f20240905.jpg",
-        "five_star_ids": [
-            "1305"
-        ],
-        "five_star_names": [
-            "相里要"
-        ],
-        "four_star_ids": [
-            "1602",
-            "1403",
-            "1303"
-        ],
-        "four_star_names": [
-            "丹瑾",
-            "秋水",
-            "渊武"
-        ],
-        "pool_type": "角色活动唤取",
-        "start_time": "2024-09-07 10:00:00",
-        "end_time": "2024-09-28 11:59:59"
-    },
-    {
         "bbs": "https://www.kurobbs.com/mc/post/1281205521101721600",
         "name": "诸方玄枢",
         "title": "浮声沉兵",
@@ -1747,5 +1722,105 @@
         "pool_type": "武器活动唤取",
         "start_time": "2025-07-03 10:00:00",
         "end_time": "2025-07-23 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1396856566426566656",
+        "name": "弗洛洛",
+        "title": "挽歌永不落幕",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/ee3a6d0b64d148199ad2cbe7a118230220250721.jpeg",
+        "five_star_ids": [
+            "1608"
+        ],
+        "five_star_names": [
+            "弗洛洛"
+        ],
+        "four_star_ids": [
+            "1601",
+            "1504",
+            "1303"
+        ],
+        "four_star_names": [
+            "桃祈",
+            "灯灯",
+            "渊武"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-08-14 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1396860689976840192",
+        "name": "洛可可",
+        "title": "箱中舞台",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/c1135add05454b6ba1c02ccc0d51ab2e20250721.jpeg",
+        "five_star_ids": [
+            "1606"
+        ],
+        "five_star_names": [
+            "洛可可"
+        ],
+        "four_star_ids": [
+            "1601",
+            "1504",
+            "1303"
+        ],
+        "four_star_names": [
+            "桃祈",
+            "灯灯",
+            "渊武"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-08-14 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1396857059706064896",
+        "name": "幽冥的忘忧章",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/de835acd2a394d208f06ae08a6103aef20250721.jpeg",
+        "five_star_ids": [
+            "21050066"
+        ],
+        "five_star_names": [
+            "幽冥的忘忧章"
+        ],
+        "four_star_ids": [
+            "21050044",
+            "21040084",
+            "21020064"
+        ],
+        "four_star_names": [
+            "今州守望",
+            "尘云旋臂",
+            "西升"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-08-14 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1396860257389875200",
+        "name": "悲喜剧",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/189b52dd4b04458fb2bb62fe9913c6f220250721.jpeg",
+        "five_star_ids": [
+            "21040026"
+        ],
+        "five_star_names": [
+            "悲喜剧"
+        ],
+        "four_star_ids": [
+            "21050044",
+            "21040084",
+            "21020064"
+        ],
+        "four_star_names": [
+            "今州守望",
+            "尘云旋臂",
+            "西升"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-08-14 09:59:59"
     }
 ]
