@@ -200,31 +200,6 @@
         "end_time": "2024-08-14 11:59:59"
     },
     {
-        "bbs": "https://www.kurobbs.com/mc/post/1273234878777102336",
-        "name": "折枝",
-        "title": "赋彩作长吟",
-        "pic": "https://prod-alicdn-community.kurobbs.com/forum/e99d94b4cae44f96bb9bb5fc07ca614420240814.jpg",
-        "five_star_ids": [
-            "1105"
-        ],
-        "five_star_names": [
-            "折枝"
-        ],
-        "four_star_ids": [
-            "1202",
-            "1103",
-            "1102"
-        ],
-        "four_star_names": [
-            "炽霞",
-            "白芷",
-            "散华"
-        ],
-        "pool_type": "角色活动唤取",
-        "start_time": "版本更新时间",
-        "end_time": "2024-09-07 09:59:59"
-    },
-    {
         "bbs": "https://www.kurobbs.com/mc/post/1273238460703666176",
         "name": "琼枝冰绡",
         "title": "浮声沉兵",
@@ -296,31 +271,6 @@
             "炽霞"
         ],
         "pool_type": "角色活动唤取",
-        "start_time": "版本更新时间",
-        "end_time": "2024-10-24 09:59:59"
-    },
-    {
-        "bbs": "https://www.kurobbs.com/mc/post/1289287803577470976",
-        "name": "星序协响",
-        "title": "浮声沉兵",
-        "pic": "https://prod-alicdn-community.kurobbs.com/forum/36feb5ab6c2148e4937306f4efe899b220240927.jpg",
-        "five_star_ids": [
-            "21050036"
-        ],
-        "five_star_names": [
-            "星序协响"
-        ],
-        "four_star_ids": [
-            "21020084",
-            "21010024",
-            "21050064"
-        ],
-        "four_star_names": [
-            "永续坍缩",
-            "异响空灵",
-            "异度"
-        ],
-        "pool_type": "武器活动唤取",
         "start_time": "版本更新时间",
         "end_time": "2024-10-24 09:59:59"
     },
@@ -1822,5 +1772,105 @@
         "pool_type": "武器活动唤取",
         "start_time": "版本更新时间",
         "end_time": "2025-08-14 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1404846315324071936",
+        "name": "布兰特",
+        "title": "燃焰于海",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/371262964e0745f4821b9ca1687d937020250812.jpeg",
+        "five_star_ids": [
+            "1206"
+        ],
+        "five_star_names": [
+            "布兰特"
+        ],
+        "four_star_ids": [
+            "1602",
+            "1204",
+            "1402"
+        ],
+        "four_star_names": [
+            "丹瑾",
+            "莫特斐",
+            "秧秧"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2025-08-14 10:00:00",
+        "end_time": "2025-08-27 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1404845588607954944",
+        "name": "坎特蕾拉",
+        "title": "映海之梦",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/130ad416835e414fb4a004577233301c20250812.jpeg",
+        "five_star_ids": [
+            "1607"
+        ],
+        "five_star_names": [
+            "坎特蕾拉"
+        ],
+        "four_star_ids": [
+            "1602",
+            "1204",
+            "1402"
+        ],
+        "four_star_names": [
+            "丹瑾",
+            "莫特斐",
+            "秧秧"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2025-08-14 10:00:00",
+        "end_time": "2025-08-27 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1404846637831241728",
+        "name": "不灭航路",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/7f00fede1e174f97aa4214bcaf307a8820250812.jpeg",
+        "five_star_ids": [
+            "21020036"
+        ],
+        "five_star_names": [
+            "不灭航路"
+        ],
+        "four_star_ids": [
+            "21020024",
+            "21050024",
+            "21030064"
+        ],
+        "four_star_names": [
+            "行进序曲",
+            "奇幻变奏",
+            "飞逝"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2025-08-14 10:00:00",
+        "end_time": "2025-08-27 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1404845997815984128",
+        "name": "海的呢喃",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/bc6f8f83047e4c7cb67986903e140d8120250812.jpeg",
+        "five_star_ids": [
+            "21050056"
+        ],
+        "five_star_names": [
+            "海的呢喃"
+        ],
+        "four_star_ids": [
+            "21020024",
+            "21050024",
+            "21030064"
+        ],
+        "four_star_names": [
+            "行进序曲",
+            "奇幻变奏",
+            "飞逝"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2025-08-14 10:00:00",
+        "end_time": "2025-08-27 11:59:59"
     }
 ]

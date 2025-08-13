@@ -10,6 +10,7 @@ from pydantic import BaseModel
 
 SCRIPT_PATH = Path(__file__).parents[0]
 POOL_LIST_PATH = SCRIPT_PATH / "data" / "pool.json"
+COMPRESSED_POOL_LIST_PATH = SCRIPT_PATH / "data" / "compressed_pool.json"
 
 
 class Character(BaseModel):
@@ -608,3 +609,6 @@ except Exception as e:
 
 with open(POOL_LIST_PATH, "w") as f:
     json.dump(pool_list, f, indent=4, ensure_ascii=False)
+
+with open(COMPRESSED_POOL_LIST_PATH, "w") as f:
+    json.dump(pool_list, f, ensure_ascii=False, separators=(",", ":"))
