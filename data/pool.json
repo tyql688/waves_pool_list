@@ -50,56 +50,6 @@
         "end_time": "2024-06-13 09:59:59"
     },
     {
-        "bbs": "https://www.kurobbs.com/mc/post/1247950667872980992",
-        "name": "吟霖",
-        "title": "惊霆雨时节",
-        "pic": "https://prod-alicdn-community.kurobbs.com/forum/a8332d4349a94bb6a908b972fb7561ff20240605.jpg",
-        "five_star_ids": [
-            "1302"
-        ],
-        "five_star_names": [
-            "吟霖"
-        ],
-        "four_star_ids": [
-            "1601",
-            "1403",
-            "1303"
-        ],
-        "four_star_names": [
-            "桃祈",
-            "秋水",
-            "渊武"
-        ],
-        "pool_type": "角色活动唤取",
-        "start_time": "2024-06-06 10:00:00",
-        "end_time": "2024-06-26 11:59:59"
-    },
-    {
-        "bbs": "https://www.kurobbs.com/mc/post/1247953405120946176",
-        "name": "掣傀之手",
-        "title": "浮声沉兵",
-        "pic": "https://prod-alicdn-community.kurobbs.com/forum/45eb3783e4db4a02960287f71052f84a20240605.jpg",
-        "five_star_ids": [
-            "21050016"
-        ],
-        "five_star_names": [
-            "掣傀之手"
-        ],
-        "four_star_ids": [
-            "21050044",
-            "21030024",
-            "21020064"
-        ],
-        "four_star_names": [
-            "今州守望",
-            "华彩乐段",
-            "西升"
-        ],
-        "pool_type": "武器活动唤取",
-        "start_time": "2024-06-06 10:00:00",
-        "end_time": "2024-06-26 11:59:59"
-    },
-    {
         "bbs": "https://www.kurobbs.com/mc/post/1255611375626194944",
         "name": "今汐",
         "title": "寒尽觉春生",
@@ -223,31 +173,6 @@
         "pool_type": "武器活动唤取",
         "start_time": "版本更新时间",
         "end_time": "2024-09-07 09:59:59"
-    },
-    {
-        "bbs": "https://www.kurobbs.com/mc/post/1281205521101721600",
-        "name": "诸方玄枢",
-        "title": "浮声沉兵",
-        "pic": "https://prod-alicdn-community.kurobbs.com/forum/ec625fec55314e52a5948e9f6641f76220240905.jpg",
-        "five_star_ids": [
-            "21040016"
-        ],
-        "five_star_names": [
-            "诸方玄枢"
-        ],
-        "four_star_ids": [
-            "21040024",
-            "21010064",
-            "21030064"
-        ],
-        "four_star_names": [
-            "呼啸重音",
-            "东落",
-            "飞逝"
-        ],
-        "pool_type": "武器活动唤取",
-        "start_time": "2024-09-07 10:00:00",
-        "end_time": "2024-09-28 11:59:59"
     },
     {
         "bbs": "https://www.kurobbs.com/mc/post/1289651390839525376",
@@ -484,31 +409,6 @@
         ],
         "five_star_names": [
             "珂莱塔"
-        ],
-        "four_star_ids": [
-            "1102",
-            "1202",
-            "1204"
-        ],
-        "four_star_names": [
-            "散华",
-            "炽霞",
-            "莫特斐"
-        ],
-        "pool_type": "角色活动唤取",
-        "start_time": "版本更新时间",
-        "end_time": "2025-01-23 09:59:59"
-    },
-    {
-        "bbs": "https://www.kurobbs.com/mc/post/1323751805817921536",
-        "name": "折枝",
-        "title": "赋彩作长吟",
-        "pic": "https://prod-alicdn-community.kurobbs.com/forum/675d1ad1d4894017abf394d2498a20d820241231.jpg",
-        "five_star_ids": [
-            "1105"
-        ],
-        "five_star_names": [
-            "折枝"
         ],
         "four_star_ids": [
             "1102",
@@ -1774,15 +1674,15 @@
         "end_time": "2025-08-14 09:59:59"
     },
     {
-        "bbs": "https://www.kurobbs.com/mc/post/1404846315324071936",
-        "name": "布兰特",
-        "title": "燃焰于海",
-        "pic": "https://prod-alicdn-community.kurobbs.com/forum/371262964e0745f4821b9ca1687d937020250812.jpeg",
+        "bbs": "https://www.kurobbs.com/mc/post/1404845588607954944",
+        "name": "坎特蕾拉",
+        "title": "映海之梦",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/130ad416835e414fb4a004577233301c20250812.jpeg",
         "five_star_ids": [
-            "1206"
+            "1607"
         ],
         "five_star_names": [
-            "布兰特"
+            "坎特蕾拉"
         ],
         "four_star_ids": [
             "1602",
@@ -1799,15 +1699,15 @@
         "end_time": "2025-08-27 11:59:59"
     },
     {
-        "bbs": "https://www.kurobbs.com/mc/post/1404845588607954944",
-        "name": "坎特蕾拉",
-        "title": "映海之梦",
-        "pic": "https://prod-alicdn-community.kurobbs.com/forum/130ad416835e414fb4a004577233301c20250812.jpeg",
+        "bbs": "https://www.kurobbs.com/mc/post/1404846315324071936",
+        "name": "布兰特",
+        "title": "燃焰于海",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/371262964e0745f4821b9ca1687d937020250812.jpeg",
         "five_star_ids": [
-            "1607"
+            "1206"
         ],
         "five_star_names": [
-            "坎特蕾拉"
+            "布兰特"
         ],
         "four_star_ids": [
             "1602",
@@ -1872,5 +1772,155 @@
         "pool_type": "武器活动唤取",
         "start_time": "2025-08-14 10:00:00",
         "end_time": "2025-08-27 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1409848772479836160",
+        "name": "守岸人",
+        "title": "直至海水褪色",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/77fc586cf42a4e7bb57be7a5f74ed42f20250826.jpeg",
+        "five_star_ids": [
+            "1505"
+        ],
+        "five_star_names": [
+            "守岸人"
+        ],
+        "four_star_ids": [
+            "1202",
+            "1106",
+            "1303"
+        ],
+        "four_star_names": [
+            "炽霞",
+            "釉瑚",
+            "渊武"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2025-08-28 04:00:00",
+        "end_time": "2025-09-17 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1409845717432295424",
+        "name": "奥古斯塔",
+        "title": "不坠烜冕",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/78f051ffbc964e57b41541e8974273bc20250826.jpeg",
+        "five_star_ids": [
+            "1306"
+        ],
+        "five_star_names": [
+            "奥古斯塔"
+        ],
+        "four_star_ids": [
+            "1202",
+            "1106",
+            "1303"
+        ],
+        "four_star_names": [
+            "炽霞",
+            "釉瑚",
+            "渊武"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2025-08-28 04:00:00",
+        "end_time": "2025-09-17 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1409847900693356544",
+        "name": "珂莱塔",
+        "title": "另一种喧嚣",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/0a5d3e5d9c5b4c09afa45dbcd5a174a920250826.jpeg",
+        "five_star_ids": [
+            "1107"
+        ],
+        "five_star_names": [
+            "珂莱塔"
+        ],
+        "four_star_ids": [
+            "1202",
+            "1106",
+            "1303"
+        ],
+        "four_star_names": [
+            "炽霞",
+            "釉瑚",
+            "渊武"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2025-08-28 04:00:00",
+        "end_time": "2025-09-17 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1409849146456563712",
+        "name": "星序协响",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/ee3a25e28e5543d5929fef9a08b5e7b320250826.jpeg",
+        "five_star_ids": [
+            "21050036"
+        ],
+        "five_star_names": [
+            "星序协响"
+        ],
+        "four_star_ids": [
+            "21010084",
+            "21030044",
+            "21050064"
+        ],
+        "four_star_names": [
+            "凋亡频移",
+            "无眠烈火",
+            "异度"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-09-17 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1409847378836025344",
+        "name": "驭冕铸雷之权",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/4735320768e84bb98e43b0ce464d4bbf20250826.jpeg",
+        "five_star_ids": [
+            "21010046"
+        ],
+        "five_star_names": [
+            "驭冕铸雷之权"
+        ],
+        "four_star_ids": [
+            "21010084",
+            "21030044",
+            "21050064"
+        ],
+        "four_star_names": [
+            "凋亡频移",
+            "无眠烈火",
+            "异度"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-09-17 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1409848219855548416",
+        "name": "死与舞",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/71de363397984013a2d8db08ca4f785020250826.jpeg",
+        "five_star_ids": [
+            "21030016"
+        ],
+        "five_star_names": [
+            "死与舞"
+        ],
+        "four_star_ids": [
+            "21010084",
+            "21030044",
+            "21050064"
+        ],
+        "four_star_names": [
+            "凋亡频移",
+            "无眠烈火",
+            "异度"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-09-17 09:59:59"
     }
 ]
