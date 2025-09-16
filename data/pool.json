@@ -50,31 +50,6 @@
         "end_time": "2024-06-13 09:59:59"
     },
     {
-        "bbs": "https://www.kurobbs.com/mc/post/1255611375626194944",
-        "name": "今汐",
-        "title": "寒尽觉春生",
-        "pic": "https://prod-alicdn-community.kurobbs.com/forum/02bca2fb7f5640ac96eb9490ab71683020240626.jpg",
-        "five_star_ids": [
-            "1304"
-        ],
-        "five_star_names": [
-            "今汐"
-        ],
-        "four_star_ids": [
-            "1102",
-            "1602",
-            "1402"
-        ],
-        "four_star_names": [
-            "散华",
-            "丹瑾",
-            "秧秧"
-        ],
-        "pool_type": "角色活动唤取",
-        "start_time": "版本更新时间",
-        "end_time": "2024-07-22 09:59:59"
-    },
-    {
         "bbs": "https://www.kurobbs.com/mc/post/1255614044121808896",
         "name": "时和岁稔",
         "title": "浮声沉兵",
@@ -121,31 +96,6 @@
             "莫特斐"
         ],
         "pool_type": "角色活动唤取",
-        "start_time": "2024-07-22 10:00:00",
-        "end_time": "2024-08-14 11:59:59"
-    },
-    {
-        "bbs": "https://www.kurobbs.com/mc/post/1263915196119281664",
-        "name": "赫奕流明",
-        "title": "浮声沉兵",
-        "pic": "https://prod-alicdn-community.kurobbs.com/forum/a082d6c12f8543219c6b85a69366ce5320240719.jpg",
-        "five_star_ids": [
-            "21020016"
-        ],
-        "five_star_names": [
-            "赫奕流明"
-        ],
-        "four_star_ids": [
-            "21050064",
-            "21020024",
-            "21030044"
-        ],
-        "four_star_names": [
-            "异度",
-            "行进序曲",
-            "无眠烈火"
-        ],
-        "pool_type": "武器活动唤取",
         "start_time": "2024-07-22 10:00:00",
         "end_time": "2024-08-14 11:59:59"
     },
@@ -309,31 +259,6 @@
         ],
         "five_star_names": [
             "吟霖"
-        ],
-        "four_star_ids": [
-            "1504",
-            "1103",
-            "1303"
-        ],
-        "four_star_names": [
-            "灯灯",
-            "白芷",
-            "渊武"
-        ],
-        "pool_type": "角色活动唤取",
-        "start_time": "2024-12-12 10:00:00",
-        "end_time": "2025-01-01 11:59:59"
-    },
-    {
-        "bbs": "https://www.kurobbs.com/mc/post/1316050166384709632",
-        "name": "相里要",
-        "title": "千机逐星野",
-        "pic": "https://prod-alicdn-community.kurobbs.com/forum/b995c93ae6b44121809eb14dc48a0e8320241210.jpg",
-        "five_star_ids": [
-            "1305"
-        ],
-        "five_star_names": [
-            "相里要"
         ],
         "four_star_ids": [
             "1504",
@@ -1454,7 +1379,7 @@
         "title": "浮声沉兵",
         "pic": "https://prod-alicdn-community.kurobbs.com/forum/7d8e6652f20a4ba78054d264b0932a6920250520.jpeg",
         "five_star_ids": [
-            "21030026"
+            "21030030"
         ],
         "five_star_names": [
             "林间的咏叹调"
@@ -1922,5 +1847,105 @@
         "pool_type": "武器活动唤取",
         "start_time": "版本更新时间",
         "end_time": "2025-09-17 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1417449268095799296",
+        "name": "尤诺",
+        "title": "漫于盈缺时轴",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/9ebfd6dcccdd418faa5822a6643a961720250912.jpeg",
+        "five_star_ids": [
+            "1410"
+        ],
+        "five_star_names": [
+            "尤诺"
+        ],
+        "four_star_ids": [
+            "1403",
+            "1103",
+            "1601"
+        ],
+        "four_star_names": [
+            "秋水",
+            "白芷",
+            "桃祈"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2025-09-17 10:00:00",
+        "end_time": "2025-10-08 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1417450669692612608",
+        "name": "夏空",
+        "title": "诗与乐的交响",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/29df53c706624fb78879844c2ec54f4e20250915.jpeg",
+        "five_star_ids": [
+            "1407"
+        ],
+        "five_star_names": [
+            "夏空"
+        ],
+        "four_star_ids": [
+            "1403",
+            "1103",
+            "1601"
+        ],
+        "four_star_names": [
+            "秋水",
+            "白芷",
+            "桃祈"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2025-09-17 10:00:00",
+        "end_time": "2025-10-08 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1417449843192061952",
+        "name": "万物持存的注释",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/739c90b59c994bcda0446f551226b02320250915.jpeg",
+        "five_star_ids": [
+            "21040046"
+        ],
+        "five_star_names": [
+            "万物持存的注释"
+        ],
+        "four_star_ids": [
+            "21040084",
+            "21030084",
+            "21050084"
+        ],
+        "four_star_names": [
+            "尘云旋臂",
+            "悖论喷流",
+            "核熔星盘"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2025-09-17 10:00:00",
+        "end_time": "2025-10-08 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1417451144962359296",
+        "name": "林间的咏叹调",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/750b950716704418bc806de96356809e20250915.jpeg",
+        "five_star_ids": [
+            "21030030"
+        ],
+        "five_star_names": [
+            "林间的咏叹调"
+        ],
+        "four_star_ids": [
+            "21040084",
+            "21030084",
+            "21050084"
+        ],
+        "four_star_names": [
+            "尘云旋臂",
+            "悖论喷流",
+            "核熔星盘"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2025-09-17 10:00:00",
+        "end_time": "2025-10-08 11:59:59"
     }
 ]
