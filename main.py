@@ -177,7 +177,7 @@ def search_pool_list(
 
 def get_pool_list(
     keyword: Literal["角色活动唤取", "武器活动唤取"],
-    end_page: int = 3,
+    end_page: int = 10,
 ):
     pool_list = []
     for page in range(1, end_page + 1):
