@@ -2197,5 +2197,205 @@
         "pool_type": "武器活动唤取",
         "start_time": "2025-09-17 10:00:00",
         "end_time": "2025-10-08 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1422160890028032000",
+        "name": "嘉贝莉娜",
+        "title": "于灰烬中",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/7ec0fb0e9b9f4364afaa24a44552b02520250929.jpeg",
+        "five_star_ids": [
+            "1208"
+        ],
+        "five_star_names": [
+            "嘉贝莉娜"
+        ],
+        "four_star_ids": [
+            "1102",
+            "1204",
+            "1504"
+        ],
+        "four_star_names": [
+            "散华",
+            "莫特斐",
+            "灯灯"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-10-30 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1422162169566613504",
+        "name": "露帕",
+        "title": "胜利为我喝彩",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/dd9829969e3c437a846a30e18f44531720250929.jpeg",
+        "five_star_ids": [
+            "1207"
+        ],
+        "five_star_names": [
+            "露帕"
+        ],
+        "four_star_ids": [
+            "1102",
+            "1204",
+            "1504"
+        ],
+        "four_star_names": [
+            "散华",
+            "莫特斐",
+            "灯灯"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-10-30 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1422165444555636736",
+        "name": "焰痕",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/567be9c975304a29b8683b6e162623f520250929.jpeg",
+        "five_star_ids": [
+            "21010036"
+        ],
+        "five_star_names": [
+            "焰痕"
+        ],
+        "four_star_ids": [
+            "21030064",
+            "21010064",
+            "21050084"
+        ],
+        "four_star_names": [
+            "飞逝",
+            "东落",
+            "核熔星盘"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-10-30 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1422161557069123584",
+        "name": "光影双生",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/0e0eb974651e475fa7117e4acf26c21220250929.jpeg",
+        "five_star_ids": [
+            "21030036"
+        ],
+        "five_star_names": [
+            "光影双生"
+        ],
+        "four_star_ids": [
+            "21030064",
+            "21010064",
+            "21050084"
+        ],
+        "four_star_names": [
+            "飞逝",
+            "东落",
+            "核熔星盘"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-10-30 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1432370643570294784",
+        "name": "仇远",
+        "title": "倦客不知身近远",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/3542f3199e1a4cbea4879e6e44e2cc7220251027.jpeg",
+        "five_star_ids": [
+            "1411"
+        ],
+        "five_star_names": [
+            "仇远"
+        ],
+        "four_star_ids": [
+            "1402",
+            "1601",
+            "1602"
+        ],
+        "four_star_names": [
+            "秧秧",
+            "桃祈",
+            "丹瑾"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2025-10-30 10:00:00",
+        "end_time": "2025-11-19 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1432372125410754560",
+        "name": "赞妮",
+        "title": "行于光影之间",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/83019d88de2844b6bef210ee1ab5467c20251027.jpeg",
+        "five_star_ids": [
+            "1507"
+        ],
+        "five_star_names": [
+            "赞妮"
+        ],
+        "four_star_ids": [
+            "1402",
+            "1601",
+            "1602"
+        ],
+        "four_star_names": [
+            "秧秧",
+            "桃祈",
+            "丹瑾"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "2025-10-30 10:00:00",
+        "end_time": "2025-11-19 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1432372504871075840",
+        "name": "焰光裁定",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/6621413136214489872c916435fdf44220251027.jpeg",
+        "five_star_ids": [
+            "21040036"
+        ],
+        "five_star_names": [
+            "焰光裁定"
+        ],
+        "four_star_ids": [
+            "21020084",
+            "21040064",
+            "21010044"
+        ],
+        "four_star_names": [
+            "永续坍缩",
+            "骇行",
+            "永夜长明"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2025-10-30 10:00:00",
+        "end_time": "2025-11-19 11:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1432371450543738880",
+        "name": "裁竹",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/a748ee1e82b647269d721f10ded3af9c20251027.jpeg",
+        "five_star_ids": [
+            "21020066"
+        ],
+        "five_star_names": [
+            "裁竹"
+        ],
+        "four_star_ids": [
+            "21020084",
+            "21040064",
+            "21010044"
+        ],
+        "four_star_names": [
+            "永续坍缩",
+            "骇行",
+            "永夜长明"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2025-10-30 10:00:00",
+        "end_time": "2025-11-19 11:59:59"
     }
 ]
