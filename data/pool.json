@@ -2349,6 +2349,31 @@
         "end_time": "2025-11-19 11:59:59"
     },
     {
+        "bbs": "https://www.kurobbs.com/mc/post/1432371450543738880",
+        "name": "裁竹",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/a748ee1e82b647269d721f10ded3af9c20251027.jpeg",
+        "five_star_ids": [
+            "21020066"
+        ],
+        "five_star_names": [
+            "裁竹"
+        ],
+        "four_star_ids": [
+            "21020084",
+            "21040064",
+            "21010044"
+        ],
+        "four_star_names": [
+            "永续坍缩",
+            "骇行",
+            "永夜长明"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "2025-10-30 10:00:00",
+        "end_time": "2025-11-19 11:59:59"
+    },
+    {
         "bbs": "https://www.kurobbs.com/mc/post/1432372504871075840",
         "name": "焰光裁定",
         "title": "浮声沉兵",
@@ -2374,28 +2399,103 @@
         "end_time": "2025-11-19 11:59:59"
     },
     {
-        "bbs": "https://www.kurobbs.com/mc/post/1432371450543738880",
-        "name": "裁竹",
-        "title": "浮声沉兵",
-        "pic": "https://prod-alicdn-community.kurobbs.com/forum/a748ee1e82b647269d721f10ded3af9c20251027.jpeg",
+        "bbs": "https://www.kurobbs.com/mc/post/1440435767420207104",
+        "name": "千咲",
+        "title": "曙暮一线之间",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/b7c726861de14bbd86236eef41e6667b20251118.jpeg",
         "five_star_ids": [
-            "21020066"
+            "1508"
         ],
         "five_star_names": [
-            "裁竹"
+            "千咲"
         ],
         "four_star_ids": [
-            "21020084",
-            "21040064",
-            "21010044"
+            "1601",
+            "1303",
+            "1403"
         ],
         "four_star_names": [
-            "永续坍缩",
-            "骇行",
-            "永夜长明"
+            "桃祈",
+            "渊武",
+            "秋水"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-12-11 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1440436839333314560",
+        "name": "菲比",
+        "title": "于静谧呢喃",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/94ffb2dad49e4ca9860a708f12d233d620251118.jpeg",
+        "five_star_ids": [
+            "1506"
+        ],
+        "five_star_names": [
+            "菲比"
+        ],
+        "four_star_ids": [
+            "1601",
+            "1303",
+            "1403"
+        ],
+        "four_star_names": [
+            "桃祈",
+            "渊武",
+            "秋水"
+        ],
+        "pool_type": "角色活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-12-11 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1440436182305554432",
+        "name": "昙切",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/7edaab3e92fd4d67be79502196fe8ce820251118.jpeg",
+        "five_star_ids": [
+            "21010056"
+        ],
+        "five_star_names": [
+            "昙切"
+        ],
+        "four_star_ids": [
+            "21020044",
+            "21050084",
+            "21010064"
+        ],
+        "four_star_names": [
+            "不归孤军",
+            "核熔星盘",
+            "东落"
         ],
         "pool_type": "武器活动唤取",
-        "start_time": "2025-10-30 10:00:00",
-        "end_time": "2025-11-19 11:59:59"
+        "start_time": "版本更新时间",
+        "end_time": "2025-12-11 09:59:59"
+    },
+    {
+        "bbs": "https://www.kurobbs.com/mc/post/1440437236297134080",
+        "name": "和光回唱",
+        "title": "浮声沉兵",
+        "pic": "https://prod-alicdn-community.kurobbs.com/forum/79687ff4e5334a13a579e414f06c93bc20251118.jpeg",
+        "five_star_ids": [
+            "21050046"
+        ],
+        "five_star_names": [
+            "和光回唱"
+        ],
+        "four_star_ids": [
+            "21020044",
+            "21050084",
+            "21010064"
+        ],
+        "four_star_names": [
+            "不归孤军",
+            "核熔星盘",
+            "东落"
+        ],
+        "pool_type": "武器活动唤取",
+        "start_time": "版本更新时间",
+        "end_time": "2025-12-11 09:59:59"
     }
 ]
